@@ -1,0 +1,7 @@
+{
+  "name": "Football Pro Live",
+  "description": "A high-performance football companion app featuring live matches, stats, transfer news, and an AI-powered image editor for fans.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
